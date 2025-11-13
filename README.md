@@ -1,2 +1,9 @@
 # Channel-Membership-bot
-A bot that deletes a group member's message and requires them to subscribe to the channel you specify | Бот который удаляет сообщение участника группы и требует подписаться на указанный вами канал
+
+EN:
+A bot that deletes messages from group members and requires subscription to a specified channel. To use it, specify your channel's @username in the CHANNEL code and your bot's token in the API_TOKEN code.
+
+RU:
+Бот, который удаляет сообщения участников группы и требует подписаться на указанный канал. Для работы укажите в коде CHANNEL свой @username канала и в API_TOKEN — токен вашего бота.
+
+
